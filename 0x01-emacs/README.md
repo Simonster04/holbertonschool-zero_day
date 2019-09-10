@@ -1,1 +1,1 @@
-This is the README for 0x1-emacs
+This is for emacs project
